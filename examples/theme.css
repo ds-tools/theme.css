@@ -1,0 +1,22 @@
+:root {
+  --colors-white: #fff;
+  --colors-blues-100: #eff8ff;
+  --colors-blues-500: #3793e0;
+  --colors-blues-900: #203d54;
+  --radii-0: 0px;
+  --radii-1: 2px;
+  --radii-2: 5px;
+  --radii-3: 10px;
+  --space-0: 0px;
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 32px;
+  --space-5: 64px;
+  --fontSizes-0: 0px;
+  --fontSizes-1: 11px;
+  --fontSizes-2: 12px;
+  --fontSizes-3: 14px;
+  --fontSizes-4: 16px;
+  --fontSizes-5: 20px;
+}
