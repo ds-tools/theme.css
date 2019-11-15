@@ -3,7 +3,7 @@
   <br><br>
   <b>Convert system-ui themes to css variables</b>
   <br><br>
-
+  <img src="https://img.shields.io/badge/maturity-proof--of--concept-d85151?style=flat-square"/>
 </p>
 
 &nbsp;
